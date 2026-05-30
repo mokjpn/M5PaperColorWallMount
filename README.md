@@ -53,6 +53,14 @@ English: A 3D-printable landscape wall mount for the M5Stack M5PaperColor that h
 - Thumbtack pin holes: 1.4 mm diameter
 - Thumbtack pin spacing: 66.0 mm
 
+## 使用した画鋲 / Tested Thumbtacks
+
+- 使用した画鋲: [Amazon.co.jp B0012R8HYG](https://www.amazon.co.jp/dp/B0012R8HYG)
+- 上記の画鋲に合わせて、画鋲頭用リセスとピン穴を設計しています。
+
+- Tested thumbtacks: [Amazon.co.jp B0012R8HYG](https://www.amazon.co.jp/dp/B0012R8HYG)
+- The rear head recesses and pin holes are designed around these thumbtacks.
+
 ## 印刷のヒント / Printing Notes
 
 - 背面の平らな面をビルドプレート側にして印刷すると安定します。
